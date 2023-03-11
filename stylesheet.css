@@ -18,3 +18,8 @@ h1 {
     text-align: center;
     color: goldenrod;      
 }
+
+.homepage img {
+    height: auto;
+    width: auto;
+}
