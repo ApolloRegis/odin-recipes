@@ -23,3 +23,9 @@ h1 {
     height: auto;
     width: auto;
 }
+
+p {
+    font-size: x-large;
+    text-align: center;
+    font-family: "lucida console", "courier new", sans-serif;
+}
