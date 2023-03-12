@@ -1,6 +1,5 @@
 
-.homepage,
-h3 {
+* {
     text-align: center;
 }
 
@@ -26,6 +25,5 @@ h1 {
 
 p {
     font-size: x-large;
-    text-align: center;
     font-family: "lucida console", "courier new", sans-serif;
 }
